@@ -1,0 +1,46 @@
+{
+  "name": "tygash",
+  "version": "1.0.0",
+  "description": "Tygash CLI — push notifications for coding agents. Send to web, iOS, and Android. As easy as git.",
+  "bin": {
+    "tsh": "bin/cli.js"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "tygash",
+    "push-notifications",
+    "web-push",
+    "apns",
+    "fcm",
+    "vapid",
+    "agent",
+    "cli",
+    "coding-agent",
+    "ai-agent",
+    "claude",
+    "cursor",
+    "cline",
+    "windsurf",
+    "aider",
+    "codex"
+  ],
+  "author": "Joe Wee <joe@tyga.cloud>",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://tygash.com",
+  "repository": {
+    "type": "git",
+    "url": "https://tygash.com"
+  },
+  "bugs": {
+    "url": "https://tygash.com/feedback"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^5.4.3"
+  }
+}

@@ -1,0 +1,36 @@
+Tygash CLI - End User License Agreement
+
+Copyright (c) 2026 Tyga.Cloud Ltd. All rights reserved.
+
+Permission is granted to install and use this software via npm for its
+intended purpose (interacting with the Tygash platform at tygash.com).
+
+You may NOT:
+- Reverse-engineer, decompile, or disassemble this software
+- Redistribute, sublicense, or resell this software
+- Modify or create derivative works based on this software
+- Remove or alter any copyright notices contained in this software
+
+INDEMNIFICATION: You agree to indemnify, defend, and hold harmless Tyga.Cloud
+Ltd, its officers, directors, employees, agents, and licensors from and against
+any and all claims, damages, obligations, losses, liabilities, costs, and
+expenses (including but not limited to attorney's fees) arising from: (i) your
+use of or inability to use the software; (ii) your violation of any term of
+this agreement; (iii) your violation of any third-party right, including any
+intellectual property right; or (iv) any claim that your use of the software
+caused damage to a third party.
+
+LIMITATION OF LIABILITY: IN NO EVENT SHALL TYGA.CLOUD LTD BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS
+OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF
+DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM YOUR USE OF THE
+SOFTWARE.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+TYGA.CLOUD LTD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Full terms of service: https://tygash.com/terms
